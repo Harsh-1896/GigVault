@@ -4,11 +4,11 @@ export default function Header() {
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-5">
         <div className="flex items-center gap-3">
           <div className="flex h-11 w-11 items-center justify-center overflow-hidden rounded-[12px] border border-white/10 bg-[#0a1122] shadow-[0_0_24px_rgba(138,92,246,0.2)]">
-            <img
-              src="/icon.svg"
-              alt="GigVault logo"
-              className="h-8 w-8 object-contain scale-[1.12]"
-            />
+           <img 
+  src="/icon.svg" 
+  alt="GigVault" 
+  className="h-9 w-9 object-contain" 
+/>
           </div>
           <div>
             <p className="font-display text-lg font-semibold leading-none tracking-tight">
