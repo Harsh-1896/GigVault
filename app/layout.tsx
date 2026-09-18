@@ -25,6 +25,9 @@ export const metadata: Metadata = {
   title: "GigVault — The missing rail.",
   description:
     "GigVault turns bank-recorded income and tenure into a portable work passport for gig workers.",
+  icons: {
+    icon: "/icon.svg",
+  },
 };
 
 export default function RootLayout({
